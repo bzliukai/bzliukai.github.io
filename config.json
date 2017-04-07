@@ -2,7 +2,7 @@
   "release": "false",
   "releaseVersionList": "",
   "weihu": {
-    "status": "true",
+    "status": "false",
     "blacklist": "",
     "whitelist": "00.00.10",
     "msg": "维护中...."
