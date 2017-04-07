@@ -4,7 +4,7 @@
   "weihu": {
     "status": "true",
     "blacklist": "00.00.10",
-    "whitelist": "",
+    "whitelist": "00.00.10",
     "msg": "维护中...."
   },
   "ad": {
