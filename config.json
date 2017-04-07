@@ -3,8 +3,8 @@
   "releaseVersionList": "",
   "weihu": {
     "status": "true",
-    "blacklist": "",
-    "whitelist": "00.00.10",
+    "blacklist": "00.00.20",
+    "whitelist": "",
     "msg": "维护中...."
   },
   "ad": {
