@@ -1,0 +1,15 @@
+{
+  "release": "false",
+  "releaseVersionList": "",
+  "weihu": {
+    "status": "true",
+    "blacklist": "",
+    "whitelist": "",
+    "msg": "维护中...."
+  },
+  "ad": {
+    "img": "http://img.zcool.cn/community/01a03b564da3d632f87512f695e7b4.png",
+    "url": "http://www.baidu.com",
+    "content": "这里是广告1"
+  }
+}
