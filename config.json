@@ -8,7 +8,7 @@
     "msg": "维护中...."
   },
   "ad": {
-    "status":false,
+    "status":true,
     "img": "https://raw.githubusercontent.com/bzliukai/bzliukai.github.io/master/img/2.jpg",
     "url": "http://www.baidu.com",
     "content": "这里是广告1"
